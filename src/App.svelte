@@ -29,6 +29,10 @@
 			<span class="title">Twitter</span>
 			<span><a href="https://twitter.com/differui">@differui</a></span>
 		</li>
+		<li class="rainbow-text">
+			<span class="title">Mail</span>
+			<span><a href="mailto:hi@guanbinrui.com">hi@guanbinrui.com</a></span>
+		</li>
 	</ul>
 </main>
 
