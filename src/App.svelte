@@ -1,5 +1,5 @@
 <script>
-	export let caption = '👋' 
+	export let caption = '👋'
 	export const address = '0x66b57885E8E9D84742faBda0cE6E3496055b012d'
 
 	function copyAddress() {
@@ -109,7 +109,7 @@
 		animation: rainbow-text-animation-rev 0.5s ease forwards;
 
 		cursor: pointer;
-		}
+	}
 
 
 
