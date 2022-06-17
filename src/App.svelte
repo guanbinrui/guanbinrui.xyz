@@ -22,22 +22,29 @@
 			<span>binrui.eth</span>
 		</li>
 		<li class="rainbow-text">
-			<span class="title">Github</span>
-			<span><a href="https://github.com/guanbinrui">guanbinrui</a></span>
+			<a target="blank_" href="https://github.com/guanbinrui">
+				<span class="title">Github</span>
+				<span>guanbinrui</span>
+			</a>
 		</li>
 		<li class="rainbow-text">
-			<span class="title">Twitter</span>
-			<span><a href="https://twitter.com/differui">@differui</a></span>
+			<a target="blank_" href="https://twitter.com/differui">
+				<span class="title">Twitter</span>
+				<span>@differui</span>
+			</a>
 		</li>
 		<li class="rainbow-text">
-			<span class="title">Mail</span>
-			<span><a href="mailto:hi@guanbinrui.com">hi@guanbinrui.com</a></span>
+			<a target="blank_" href="mailto:hi@guanbinrui.com">
+				<span class="title">Mail</span>
+				<span>hi@guanbinrui.com</span>
+			</a>
 		</li>
 	</ul>
 </main>
 
 <style>
 	main {
+		user-select: none;
 		width: 100%;
 		height: 100%;
 		text-align: center;
