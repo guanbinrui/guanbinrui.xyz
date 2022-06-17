@@ -63,10 +63,14 @@
 		list-style-type: none;
 		display: flex;
 		justify-content: center;
+		flex-wrap: wrap;
+		padding: 0;
+		margin: 1em 0;
 	}
 
 	li {
-		padding: 0 48px;
+		flex: 1;
+		padding: 24px 48px;
 	}
 
 	li .title {
@@ -76,6 +80,7 @@
 	li span {
 		text-align: left;
 		display: block;
+		white-space: nowrap;
 	}
 
 	.rainbow-text {
