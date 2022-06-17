@@ -36,7 +36,7 @@
 		<li class="rainbow-text">
 			<a target="blank_" href="mailto:hi@guanbinrui.com">
 				<span class="title">Mail</span>
-				<span>hi@guanbinrui.com</span>
+				<span>Hi!</span>
 			</a>
 		</li>
 	</ul>
@@ -121,13 +121,5 @@
 		animation: rainbow-text-animation-rev 0.5s ease forwards;
 
 		cursor: pointer;
-	}
-
-
-
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
 	}
 </style>
